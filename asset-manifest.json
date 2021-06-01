@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thistodoapp/static/css/main.27615b7d.chunk.css",
+    "main.js": "/thistodoapp/static/js/main.701bf7a4.chunk.js",
+    "main.js.map": "/thistodoapp/static/js/main.701bf7a4.chunk.js.map",
+    "runtime-main.js": "/thistodoapp/static/js/runtime-main.580b3c01.js",
+    "runtime-main.js.map": "/thistodoapp/static/js/runtime-main.580b3c01.js.map",
+    "static/js/2.b022c33f.chunk.js": "/thistodoapp/static/js/2.b022c33f.chunk.js",
+    "static/js/2.b022c33f.chunk.js.map": "/thistodoapp/static/js/2.b022c33f.chunk.js.map",
+    "static/js/3.3673a7d0.chunk.js": "/thistodoapp/static/js/3.3673a7d0.chunk.js",
+    "static/js/3.3673a7d0.chunk.js.map": "/thistodoapp/static/js/3.3673a7d0.chunk.js.map",
+    "index.html": "/thistodoapp/index.html",
+    "static/css/main.27615b7d.chunk.css.map": "/thistodoapp/static/css/main.27615b7d.chunk.css.map",
+    "static/js/2.b022c33f.chunk.js.LICENSE.txt": "/thistodoapp/static/js/2.b022c33f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580b3c01.js",
+    "static/js/2.b022c33f.chunk.js",
+    "static/css/main.27615b7d.chunk.css",
+    "static/js/main.701bf7a4.chunk.js"
+  ]
+}
